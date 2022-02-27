@@ -17,16 +17,21 @@ Go는 정말 멋진 언어입니다!
 
 ## 프론트엔드 구현 사항
 
-- 서비스 소개(Service Intro) 페이지
-- 상품 목록(Product List) 페이지
-- 상품 상세(Product Detail) 페이지
-- 프로모션(Promotion) 페이지
-- 회원 프로필(Member Profile) 페이지
-- 글로벌 모달(Global Modal)
+- 상품 목록(Product List) 뷰
+- 주문 목록(Order List) 뷰
+- 서비스 소개(Service Intro) 뷰
+- 회원 프로필(Member Profile) 뷰
+- 인증(Auth) 모달
 - 주문 결제 프로세스
 
 ## 백엔드 구현 사항
 
-- 회원 계정 생성(sign-up) 및 접속(sign-in)
-- 상품 주문 처리
-- 주문 결제 시스템
+- ID로 특정 회원 조회
+- 이름으로 특정 회원 조회
+- 회원 생성
+- 회원 접속
+- 회원 접속 해제
+- 상품 목록 조회
+- 프로모션 상품 목록 조회
+- ID로 특정 상품 조회
+- 회원 ID로 주문 목록 조회
