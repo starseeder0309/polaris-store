@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"log"
+
+	"github.com/kimhyeonu/polaris-store/backend/routes"
+)
 
 func main() {
-	fmt.Println("Polaris Store")
+	log.Println("Polaris Store Backend Server")
+	routes.RunApi("127.0.0.1:9595")
 }
