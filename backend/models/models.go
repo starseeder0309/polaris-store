@@ -12,12 +12,12 @@ type Member struct {
 
 // 상품(Product)
 type Product struct {
-	Name        string  `json:"name"`
-	Description string  `json:"description"`
-	Price       float64 `json:"price"`
-	Promotion   float64 `json:"promotion"`
-	Image       string  `json:"image"`
-	ImageAlt    string  `json:"imageAlt"`
+	Name          string  `json:"name"`
+	Description   string  `json:"description"`
+	Price         float64 `json:"price"`
+	PromotedPrice float64 `json:"PromotedPrice"`
+	Image         string  `json:"image"`
+	ImageAlt      string  `json:"imageAlt"`
 }
 
 // 주문(Order)

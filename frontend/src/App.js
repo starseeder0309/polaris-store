@@ -35,8 +35,17 @@ function App() {
         />
 
         <div className="container pt-4 mt-4">
-          <Route exact path="/" render={() => <ProductListView />} />
-          <Route path="/promotions" render={() => <ProductListView />} />
+          <Route
+            exact
+            path="/"
+            render={() => <ProductListView source="data/products.json" />}
+          />
+          <Route
+            path="/promotions"
+            render={() => (
+              <ProductListView source="data/products.json" isPromoted />
+            )}
+          />
           {currentMember.isSignedIn ? (
             <Route path="/my-orders" render={() => <OrderListView />} />
           ) : null}

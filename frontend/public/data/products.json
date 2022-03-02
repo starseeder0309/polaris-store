@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Dark Souls",
+    "description": "Then, there was fire. Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning high-definition detail running at 60fps.",
+    "price": 43800.0,
+    "promotedPrice": 0.0,
+    "image": "images/product_dark-souls.jpeg",
+    "imageAlt": "product_dark-souls"
+  },
+  {
+    "id": 2,
+    "name": "Dark Souls 2",
+    "description": "DARK SOULS™ II: Scholar of the First Sin brings the franchise’s renowned obscurity & gripping gameplay to a new level. Join the dark journey and experience overwhelming enemy encounters, diabolical hazards, and unrelenting challenge.",
+    "price": 32800.0,
+    "promotedPrice": 0.0,
+    "image": "images/product_dark-souls-2.jpeg",
+    "imageAlt": "product_dark-souls-2"
+  },
+  {
+    "id": 3,
+    "name": "Dark Souls 3",
+    "description": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
+    "price": 49800.0,
+    "promotedPrice": 0.0,
+    "image": "images/product_dark-souls-3.jpeg",
+    "imageAlt": "product_dark-souls-3"
+  },
+  {
+    "id": 4,
+    "name": "Demon's Souls",
+    "description": "From PlayStation Studios and Bluepoint Games comes a remake of the PlayStation classic, Demon’s Souls. Entirely rebuilt from the ground up and masterfully enhanced, this remake introduces the horrors of a fog-laden, dark fantasy land to a whole new generation of gamers. Those who’ve faced its trials and tribulations before, can once again challenge the darkness in stunning visual quality and incredible performance.",
+    "price": 48000.0,
+    "promotedPrice": 0.0,
+    "image": "images/product_demons-souls.jpeg",
+    "imageAlt": "product_demons-souls"
+  },
+  {
+    "id": 5,
+    "name": "Bloodborne",
+    "description": "Hunt your nightmares as you search for answers in the ancient city of Yharnam, now cursed with a strange endemic illness spreading through the streets like wildfire. Danger, death and madness lurk around every corner of this dark and horrific world, and you must discover its darkest secrets in order to survive.",
+    "price": 1000.0,
+    "promotedPrice": 0.0,
+    "image": "images/product_bloodborne.jpeg",
+    "imageAlt": "product_bloodborne"
+  },
+  {
+    "id": 6,
+    "name": "Elden Ring",
+    "description": "THE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+    "price": 64800.0,
+    "promotedPrice": 0.0,
+    "image": "images/product_elden-ring.jpeg",
+    "imageAlt": "product_elden-ring"
+  }
+]
