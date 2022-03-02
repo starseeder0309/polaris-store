@@ -1,5 +1,7 @@
 # polaris-store
 
+![thumbnail](./thumbnail.png)
+
 polaris-store는 Go 언어로 풀스택 웹 개발을 빠르게 연습하기 위해 만들어진 프로젝트입니다.  
 Go는 정말 멋진 언어입니다!  
 

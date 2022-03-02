@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { Modal, ModalHeader, ModalBody } from 'reactstrap';
 
+import PaymentForm from '../Forms/PaymentForm';
+
 function PurchaseModal({ isOpen, onToggle }) {
   return (
     <Modal
@@ -15,7 +17,9 @@ function PurchaseModal({ isOpen, onToggle }) {
           상품 구매하기
         </ModalHeader>
 
-        <ModalBody>TODO</ModalBody>
+        <ModalBody>
+          <PaymentForm />
+        </ModalBody>
       </div>
     </Modal>
   );
