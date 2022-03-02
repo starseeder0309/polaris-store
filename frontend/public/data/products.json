@@ -1,56 +1,56 @@
 [
   {
     "id": 1,
-    "name": "Dark Souls",
-    "description": "Then, there was fire. Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning high-definition detail running at 60fps.",
-    "price": 43800.0,
+    "name": "브론즈",
+    "description": "브론즈 티어를 구독하고 현우에게 매 월 8,000원을 후원하세요!",
+    "price": 8000.0,
     "promotedPrice": 0.0,
-    "image": "images/product_dark-souls.jpeg",
-    "imageAlt": "product_dark-souls"
+    "image": "images/product_rank01.png",
+    "imageAlt": "product_rank01"
   },
   {
     "id": 2,
-    "name": "Dark Souls 2",
-    "description": "DARK SOULS™ II: Scholar of the First Sin brings the franchise’s renowned obscurity & gripping gameplay to a new level. Join the dark journey and experience overwhelming enemy encounters, diabolical hazards, and unrelenting challenge.",
-    "price": 32800.0,
+    "name": "실버",
+    "description": "실버 티어를 구독하고 현우에게 매 월 16,000원을 후원하세요!",
+    "price": 16000.0,
     "promotedPrice": 0.0,
-    "image": "images/product_dark-souls-2.jpeg",
-    "imageAlt": "product_dark-souls-2"
+    "image": "images/product_rank02.png",
+    "imageAlt": "product_rank02"
   },
   {
     "id": 3,
-    "name": "Dark Souls 3",
-    "description": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
-    "price": 49800.0,
+    "name": "골드",
+    "description": "골드 티어를 구독하고 현우에게 매 월 32,000원을 후원하세요!",
+    "price": 32000.0,
     "promotedPrice": 0.0,
-    "image": "images/product_dark-souls-3.jpeg",
-    "imageAlt": "product_dark-souls-3"
+    "image": "images/product_rank03.png",
+    "imageAlt": "product_rank03"
   },
   {
     "id": 4,
-    "name": "Demon's Souls",
-    "description": "From PlayStation Studios and Bluepoint Games comes a remake of the PlayStation classic, Demon’s Souls. Entirely rebuilt from the ground up and masterfully enhanced, this remake introduces the horrors of a fog-laden, dark fantasy land to a whole new generation of gamers. Those who’ve faced its trials and tribulations before, can once again challenge the darkness in stunning visual quality and incredible performance.",
-    "price": 48000.0,
+    "name": "플래티넘",
+    "description": "플래티넘 티어를 구독하고 현우에게 매 월 64,000원을 후원하세요!",
+    "price": 64000.0,
     "promotedPrice": 0.0,
-    "image": "images/product_demons-souls.jpeg",
-    "imageAlt": "product_demons-souls"
+    "image": "images/product_rank04.png",
+    "imageAlt": "product_rank04"
   },
   {
     "id": 5,
-    "name": "Bloodborne",
-    "description": "Hunt your nightmares as you search for answers in the ancient city of Yharnam, now cursed with a strange endemic illness spreading through the streets like wildfire. Danger, death and madness lurk around every corner of this dark and horrific world, and you must discover its darkest secrets in order to survive.",
-    "price": 1000.0,
+    "name": "다이아몬드",
+    "description": "다이아몬드 티어를 구독하고 현우에게 매 월 128,000원을 후원하세요!",
+    "price": 128000.0,
     "promotedPrice": 0.0,
-    "image": "images/product_bloodborne.jpeg",
-    "imageAlt": "product_bloodborne"
+    "image": "images/product_rank05.png",
+    "imageAlt": "product_rank05"
   },
   {
     "id": 6,
-    "name": "Elden Ring",
-    "description": "THE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
-    "price": 64800.0,
+    "name": "마스터",
+    "description": "마스터 티어를 구독하고 현우에게 매 월 256,000원을 후원하세요!",
+    "price": 256000.0,
     "promotedPrice": 0.0,
-    "image": "images/product_elden-ring.jpeg",
-    "imageAlt": "product_elden-ring"
+    "image": "images/product_rank06.png",
+    "imageAlt": "product_rank06"
   }
 ]

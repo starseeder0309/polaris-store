@@ -14,7 +14,7 @@ function AuthModal({ isOpen, onToggle }) {
 
   return (
     <Modal
-      id="register"
+      id="auth-modal"
       tabIndex="-1"
       role="dialog"
       isOpen={isOpen}

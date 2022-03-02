@@ -1,6 +1,6 @@
 import React from 'react';
 
-function ProductItem({ isPromoted, item }) {
+function ProductItem({ isPromoted, item, onShowPurchaseModal }) {
   // console.log('item', item);
 
   const { name, description, price, promotedPrice, image, imageAlt } = item;
@@ -16,7 +16,10 @@ function ProductItem({ isPromoted, item }) {
           <h4 className="card-title">{name}</h4>
           가격: <strong className={priceColor}>{finalPrice} 원</strong>
           <p className="card-text">{description}</p>
-          <a className="btn btn-success text-white" onClick={() => {}}>
+          <a
+            className="btn btn-success text-white"
+            onClick={onShowPurchaseModal}
+          >
             구매
           </a>
         </div>

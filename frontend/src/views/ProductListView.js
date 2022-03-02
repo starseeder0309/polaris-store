@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 import ProductList from '../components/ProductList';
 
-function ProductListView({ source, isPromoted }) {
+function ProductListView({ source, isPromoted, onShowPurchaseModal }) {
   const [products, setProducts] = useState([]);
   // console.log('products', products);
 
@@ -21,7 +21,11 @@ function ProductListView({ source, isPromoted }) {
 
   return (
     <>
-      <ProductList products={products} isPromoted={isPromoted} />
+      <ProductList
+        products={products}
+        isPromoted={isPromoted}
+        onShowPurchaseModal={onShowPurchaseModal}
+      />
     </>
   );
 }
