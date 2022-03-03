@@ -15,7 +15,7 @@ Go는 정말 멋진 언어입니다!
 - 백엔드 프레임워크 : Gin
 - DBMS : MySQL
 - ORM : GORM
-- 클라우드 컴퓨팅 플랫폼 : Heroku
+- 클라우드 컴퓨팅 플랫폼 : Google Cloud Platform - App Engine
 
 ## 프론트엔드 구현 사항
 
@@ -37,3 +37,13 @@ Go는 정말 멋진 언어입니다!
 - 프로모션 상품 목록 조회
 - ID로 특정 상품 조회
 - 회원 ID로 주문 목록 조회
+
+## DB 구조
+
+- 데이터베이스 이름 : polaris_store
+- 테이블
+  - members
+  - orders
+  - products
+- 인덱스
+  - orders 테이블은 members 및 products 테이블을 참조하기 때문에 각 테이블의 id 컬럼에 대한 인덱스가 필요하다.
